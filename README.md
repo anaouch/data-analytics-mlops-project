@@ -26,4 +26,10 @@ docker run mon-pipeline
 ├── requirements.txt  # Dependencies
 ├── Dockerfile        # Docker configuration
 └── resultats.csv     # Model results
-```
+
+## Dashboard Power BI
+
+![Précision du modèle](dashboard1.png)
+![Survie par classe](dashboard2.png)
+![Survie par sexe](dashboard3.png)
+
